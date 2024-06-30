@@ -4,7 +4,7 @@
 
 这是一个基于 Vue.js 和 FullCalendar 的简单值班表生成系统。它允许用户输入值班人员列表和开始日期，然后生成一个基于 FullCalendar 的值班表展示。
 
-![image](https://github.com/hiszm/duty_schedule/assets/19571157/0580a877-57a9-4dc8-9f6a-471166605bc7)
+![image](https://github.com/hiszm/duty_schedule/assets/19571157/b8a297fa-9da9-4983-9ca0-20eec7d8517d)
 
 
 ## 功能特性
