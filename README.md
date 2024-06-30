@@ -52,7 +52,6 @@ npm run dev
 
 ## 作者
 
-- 你的名字
 - GitHub: [@hiszm](https://github.com/hiszm)
 
 ## 版权说明
